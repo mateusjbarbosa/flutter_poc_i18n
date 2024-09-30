@@ -1,6 +1,6 @@
 # PoC Internacionalização
 
-Projeto criado exclusivamente para teste de criação de PDFs.
+Projeto criado exclusivamente para teste de Internacionalização.
 
 Plataformas testadas:
 
